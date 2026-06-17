@@ -14,4 +14,7 @@
 <text x="1422" y="530" style="font-family: Arial, sans-serif; font-size: 11px; fill: rgb(131,19,17); font-weight: bold;">No</text>
 <text x="1762" y="242" style="font-family: Arial, sans-serif; font-size: 11px; fill: rgb(32,80,34); font-weight: bold;">Sí</text>
 <text x="1805" y="193" style="font-family: Arial, sans-serif; font-size: 11px; fill: rgb(131,19,17); font-weight: bold;">No</text>
+
+<text x="218" y="232" transform="rotate(-90 218 232)" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; fill: rgb(34, 36, 42);">Empleado</text>
+<text x="218" y="655" transform="rotate(-90 218 655)" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; fill: rgb(34, 36, 42);">Sistema / Chatbot</text>
 </svg>
