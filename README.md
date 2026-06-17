@@ -1,4 +1,4 @@
-# Chatbot de Gestión de Vacaciones — Org Empresarial S.A.
+# Chatbot de Gestión de Vacaciones — Organizacion Empresarial
 
 ## Descripción
 
@@ -83,7 +83,7 @@ disponibles e historial de solicitudes activas.
 El diagrama del proceso se encuentra en la carpeta `/docs` del repositorio.
 Modelado con BPMN 2.0 usando bpmn.io, incluye:
 
-- Pool: Gestión de Solicitud de Vacaciones — Org Empresarial S.A.
+- Pool: Gestión de Solicitud de Vacaciones — Organizacion Empresarial
 - Lane Empleado
 - Lane Sistema / Bot
 - 5 compuertas exclusivas XOR
